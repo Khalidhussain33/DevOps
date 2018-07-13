@@ -1,0 +1,10 @@
+C:\DevOps\scm\bin\Debug\netcoreapp2.1\scm.deps.json
+C:\DevOps\scm\bin\Debug\netcoreapp2.1\scm.runtimeconfig.json
+C:\DevOps\scm\bin\Debug\netcoreapp2.1\scm.runtimeconfig.dev.json
+C:\DevOps\scm\bin\Debug\netcoreapp2.1\scm.dll
+C:\DevOps\scm\bin\Debug\netcoreapp2.1\scm.pdb
+C:\DevOps\scm\obj\Debug\netcoreapp2.1\scm.csproj.CoreCompileInputs.cache
+C:\DevOps\scm\obj\Debug\netcoreapp2.1\scm.AssemblyInfoInputs.cache
+C:\DevOps\scm\obj\Debug\netcoreapp2.1\scm.AssemblyInfo.cs
+C:\DevOps\scm\obj\Debug\netcoreapp2.1\scm.dll
+C:\DevOps\scm\obj\Debug\netcoreapp2.1\scm.pdb
