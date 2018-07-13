@@ -17,7 +17,7 @@ namespace scm.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description page1.1 Develop branch.";
 
             return View();
         }
